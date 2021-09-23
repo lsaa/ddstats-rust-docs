@@ -6,3 +6,4 @@ and runs on linux too (maybe also proton maybe sometime soon???)
 Hotkeys:
 - q: quits
 - F3: Enter color edit mode
+- F5: toggle splits beyond latest
