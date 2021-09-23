@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rust code snippets.md",
+            "file": "config.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust code snippets.md",
+                "file": "config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,11 @@
   },
   "active": "2d90040b45f288c9",
   "lastOpenFiles": [
-    "Rust  code snippets.md",
     "Untitled.md",
-    "the very cool todo.md"
+    "README.md",
+    "API docs.md",
+    "the very cool todo.md",
+    "Rust code snippets.md",
+    "Rust  code snippets.md"
   ]
 }
