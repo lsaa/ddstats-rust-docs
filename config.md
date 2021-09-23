@@ -1,3 +1,4 @@
+```
 ddstats-rust config
     Optional configurations:
         - ui_conf.logo: (String)
@@ -38,7 +39,6 @@ ddstats-rust config
     Rgb(u8, u8, u8) || Will approximate color if terminal doesn't allow
     Indexed(u8)
 
-```
     Examples:
         - Rgb(0xF7, 0xCA, 0x88) || this is the hex color #F7CA88 
 		
@@ -46,8 +46,8 @@ ddstats-rust config
     top of the window and changing CMD preferences.
 
     On linux it just pulls from your terminal colors, probably in .Xdefaults
-```
 
 Breaking Changes:
     -> ui_conf.column_distance is now necessary (2021-09-19)
 
+```
