@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "958469427e9bc870",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d90040b45f288c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "API docs.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e896d324a90855c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed1cc0e92bcae04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39b03828ac585a3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1415ac834f84033b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224
+  },
+  "right": {
+    "id": "39db975c0e5dc225",
+    "type": "split",
+    "children": [
+      {
+        "id": "772ae59fddab0b5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca622aec7ad929b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "API docs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2d90040b45f288c9",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Rust  code snippets.md",
+    "the very cool todo.md"
+  ]
+}
